@@ -1,4 +1,4 @@
-# MutiRegression-R-Coding
+# MutiRegression Model 
 The details of the features are as follows:
 Independent (Input) variables:
 - Age 
@@ -9,7 +9,8 @@ Independent (Input) variables:
 - Region
 
 Dependent (Output) variable: 
-- Expenses\
-Requests to analyze his dataset and provide with information on the following:\
+- Expenses
+
+Requests to analyze the dataset and provide with information on the following:\
 a) The effect of smoking on expenses by creating a linear regression model.\
 b) The effect of all input variables on expenses by creating a multivariate regression model. 
